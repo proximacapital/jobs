@@ -1,3 +1,5 @@
+![Proxima Capital](images/Proxima.png "Proxima Capital")
+
 # Junior Trader - Part Time / Full Time, Remote
 
 ## Work at Proxima

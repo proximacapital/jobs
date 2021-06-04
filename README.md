@@ -1,3 +1,5 @@
+![Proxima Capital](images/Proxima.png "Proxima Capital")
+
 # Jobs at Proxima Capital
 
 ## Work at Proxima

@@ -1,4 +1,6 @@
 
+![Proxima Capital](images/Proxima.png "Proxima Capital")
+
 # Solidity Engineer, Sydney Australia
 
 
