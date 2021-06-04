@@ -19,7 +19,7 @@ Proxima is an equal opportunity employer and as such we make every effort to ens
 ## Current Roles
 
 - [Solidity Engineer - Sydney, Australia](SolidityEngineer.md)
-- [Trading Systems Engineer - Sydney, Australia](TradingSystemsEngineer.md)
+- [Algorithmic Trading Software Engineer - Sydney, Australia](TradingSystemsEngineer.md)
 - [Junior Trader - Remote (Europe/North America/Africa)](JuniorTrader.md)
 
 

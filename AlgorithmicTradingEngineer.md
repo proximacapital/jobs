@@ -1,6 +1,6 @@
 ![Proxima Capital](images/Proxima.png "Proxima Capital")
 
-# Trading Systems Engineer - Sydney, Australia
+# Algorithmic Trading Software Engineer - Sydney, Australia
 
 ## Work at Proxima
 
