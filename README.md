@@ -1,2 +1,23 @@
-# jobs
-Proxima Jobs Repository
+# Jobs at Proxima Capital
+
+## Work at Proxima
+
+Proxima Capital is a trading firm with head office and leadership team currently based in Sydney, Australia. We specialise in building and operating algorithms that provide liquidity to and arbitrage crypto markets globally.
+
+Our team is growing rapidly and we are looking for motivated and inquisitive individuals to help build and operate our trading platform.
+
+At Proxima, we pride ourselves on looking after our team members, and building a culture with courage, trust and truth-seeking as key values.
+
+
+## Equal Opportunity Employer
+
+Proxima is an equal opportunity employer and as such we make every effort to ensure that all current and potential employees are treated fairly and equally, regardless of their sex, sexual orientation, marital status, race, colour, nationality, ethnic or national origin, religion, age or disability.
+
+
+## Current Roles
+
+- [Solidity Engineer - Sydney, Australia](SolidityEngineer.md)
+- [Trading Systems Engineer - Sydney, Australia](TradingSystemsEngineer.md)
+- [Junior Trader - Remote (Europe/North America/Africa)](JuniorTrader.md)
+
+
