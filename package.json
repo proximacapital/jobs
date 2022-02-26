@@ -1,0 +1,17 @@
+{
+  "name": "@proxima-oss/eslint-config",
+  "author": "Proxima Capital",
+  "license": "ISC",
+  "scripts": {
+    "lint": "npx markdownlint ."
+  },
+  "keywords": [
+    "proxima",
+    "capital",
+    "jobs",
+    "careers"
+  ],
+  "dependencies": {
+    "markdownlint-cli": "0.31.1"
+  }
+}
