@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line MD041 -->
 ![Proxima Capital](images/Proxima.png "Proxima Capital")
 
-# DeFi Analyst / Researcher (PT), Remote
+# DeFi Analyst / Researcher (PT/FT), Remote
 
 ## Work at Proxima
 
@@ -24,14 +24,14 @@ nationality, ethnic or national origin, religion, age or disability.
 
 ## Job Description
 
-We are looking for part-time DeFi Analysts & Researchers to join us and assist
-our Trading team. You will be at the forefront of delivering high-calibre yield
-farming projects and supporting our team with due diligence. University
-credentials are not mandatory but delivery and knowledge of crypto are
-essential. Our ideal candidate can mentally simulate the best route(s) to move
-capital from one chain to another in the cheapest, safest and fastest way
-possible. We encourage candidates to find opportunities and express any
-strategies in crypto.
+We are looking for part-time/full-time DeFi Analysts & Researchers to join us
+and assist our Trading team. You will be at the forefront of delivering
+high-calibre yield farming projects and supporting our team with due diligence.
+University credentials are not mandatory but delivery and knowledge of crypto
+are essential. Our ideal candidate is keenly aware of the many risks in DeFi,
+while comfortable & well-versed enough to efficiently move capital between the
+various protocols and chains, optimizing routes & fees. We encourage candidates
+to find opportunities and express any strategies in crypto.
 
 ### Your Skills and Qualities
 
