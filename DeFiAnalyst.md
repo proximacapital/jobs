@@ -24,26 +24,26 @@ nationality, ethnic or national origin, religion, age or disability.
 
 ## Job Description
 
-We are looking for part-time DeFi Analysts & Researchers to join us 
-and assist our Trading team. You will be at the forefront of delivering 
-high-calibre yield farming projects and supporting our team with due 
-diligence. University credentials are not mandatory but delivery and 
+We are looking for part-time DeFi Analysts & Researchers to join us
+and assist our Trading team. You will be at the forefront of delivering
+high-calibre yield farming projects and supporting our team with due
+diligence. University credentials are not mandatory but delivery and
 knowledge of crypto are essential. Our ideal candidate can mentally simulate
 the best route(s) to move capital from one chain to another in the cheapest,
-safest and fastest way possible. We encourage candidates to find opportunities 
+safest and fastest way possible. We encourage candidates to find opportunities
 and express any strategies in crypto.
 
 ### Your Skills and Qualities
 
-* Deep understanding of the DeFi industry: Types of chains, bridges and 
+* Deep understanding of the DeFi industry: Types of chains, bridges and
 wrapped tokens.
-* Basic understanding of the different types of protocols risks 
+* Basic understanding of the different types of protocols risks
   (bonus: and smart contract risks).
-* Experience finding resources and alpha news early before 
+* Experience finding resources and alpha news early before
   major announcements.
-* Reading through various auditing reports and identifying potential risks 
+* Reading through various auditing reports and identifying potential risks
   of DeFi protocols.
-* Monitoring smart contracts and setting up crypto alerts in case of risk 
+* Monitoring smart contracts and setting up crypto alerts in case of risk
   events.
 
 ### What we offer
