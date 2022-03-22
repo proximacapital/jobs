@@ -35,14 +35,13 @@ to find opportunities and express any strategies in crypto.
 
 ### Your Skills and Qualities
 
-* Deep understanding of the DeFi industry: Types of chains, bridges and
-  wrapped tokens.
+* Deep understanding of the DeFi industry: Types of chains, bridges and wrapped
+  tokens.
 * Basic understanding of the different types of protocol risks
   (bonus: and smart contract risks).
-* Experience finding resources and alpha news early before
-  major announcements.
+* Experience finding resources and alpha news early before major announcements
 * Reading through various auditing reports and identifying potential risks
-  of DeFi protocols.
+  DeFi protocols.
 * Monitoring smart contracts and setting up crypto alerts in case of risk
   events.
 
