@@ -37,7 +37,7 @@ and express any strategies in crypto.
 
 * Deep understanding of the DeFi industry: Types of chains, bridges and
 wrapped tokens.
-* Basic understanding of the different types of protocols risks
+* Basic understanding of the different types of protocol risks
   (bonus: and smart contract risks).
 * Experience finding resources and alpha news early before
   major announcements.
