@@ -1,11 +1,11 @@
 <!-- markdownlint-disable-next-line MD041 -->
 ![Proxima Capital](images/Proxima.png "Proxima Capital")
 
-# DeFi Analyst / Researcher (PT/FT), Remote
+# DeFi Analyst / Researcher - Part Time / Full Time, Remote
 
 ## Work at Proxima
 
-Proxima Capital is a trading firm with head offices in the Cayman Islands 
+Proxima Capital is a trading firm with head offices in the Cayman Islands
 and Sydney, Australia. We specialise in building and operating algorithms
 that provide liquidity to and arbitrage crypto markets globally.
 

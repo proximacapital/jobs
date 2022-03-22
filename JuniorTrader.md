@@ -5,7 +5,7 @@
 
 ## Work at Proxima
 
-Proxima Capital is a trading firm with head offices in the Cayman Islands 
+Proxima Capital is a trading firm with head offices in the Cayman Islands
 and Sydney, Australia. We specialise in building and operating algorithms
 that provide liquidity to and arbitrage crypto markets globally.
 

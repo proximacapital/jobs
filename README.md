@@ -5,7 +5,7 @@
 
 ## Work at Proxima
 
-Proxima Capital is a trading firm with head offices in the Cayman Islands 
+Proxima Capital is a trading firm with head offices in the Cayman Islands
 and Sydney, Australia. We specialise in building and operating algorithms
 that provide liquidity to and arbitrage crypto markets globally.
 
@@ -26,5 +26,5 @@ nationality, ethnic or national origin, religion, age or disability.
 
 - [Solidity Engineer - Sydney, Australia](SolidityEngineer.md)
 - [Algorithmic Trading Software Engineer - Sydney, Australia](AlgorithmicTradingEngineer.md)
-- [Junior Trader - Remote (Europe/North America/Africa)](JuniorTrader.md)
+- [Junior Trader - Remote](JuniorTrader.md)
 - [DeFi Analyst / Researcher -  Remote](DeFiAnalyst.md)
