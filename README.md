@@ -27,3 +27,4 @@ nationality, ethnic or national origin, religion, age or disability.
 - [Solidity Engineer - Sydney, Australia](SolidityEngineer.md)
 - [Algorithmic Trading Software Engineer - Sydney, Australia](AlgorithmicTradingEngineer.md)
 - [Junior Trader - Remote (Europe/North America/Africa)](JuniorTrader.md)
+- [DeFi Analyst / Researcher -  Remote](DeFiAnalyst.md)
