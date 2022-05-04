@@ -24,7 +24,4 @@ nationality, ethnic or national origin, religion, age or disability.
 
 ## Current Roles
 
-- [Solidity Engineer - Sydney, Australia](SolidityEngineer.md)
-- [Algorithmic Trading Software Engineer - Sydney, Australia](AlgorithmicTradingEngineer.md)
-- [Junior Trader - Remote](JuniorTrader.md)
-- [DeFi Analyst / Researcher -  Remote](DeFiAnalyst.md)
+There are currently no open positions at Proxima.
