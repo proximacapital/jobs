@@ -37,7 +37,7 @@ that need to be developed and maintained.
 ### Essential
 
 * A passion for crafting great code.
-* Experience with Solidity, web3js/ethers.js and your preferred testing  suite,
+* Experience with Solidity, web3js/ethers.js and your preferred testing suite,
   other related Ethereum tooling and libraries.
 * Familiarity with the EVM and writing efficient solidity contracts.
 * 3+ years’ experience working as a software developer, and/or Bachelor/Master’s
